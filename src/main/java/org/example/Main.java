@@ -28,5 +28,9 @@ public class Main {
         } else {
             System.out.println("a is less than b");
         }
+//        another thing to understand about if statements is that {} are not always required
+//        if i were to write if (a==b) sout("a==b") it will still work
+//        only if you were to write multiple lines like sout(a==b);
+//        sout(a is equal to b) then I had to write the sout statements in {}
     }
 }
